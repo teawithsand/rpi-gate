@@ -1,0 +1,11 @@
+*.pem
+*.der
+*.cert
+
+client
+server
+
+constants.go
+
+!/secrets/.gitkeep
+/secrets
